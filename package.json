@@ -1,0 +1,23 @@
+{
+  "name": "sn-random-messages",
+  "version": "1.0.0",
+  "description": "Build node package",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "javascript",
+    "npm",
+    "node",
+    "package"
+  ],
+  "author": "SebasN <contact@sebastian-navarrete.com>",
+  "license": "MIT",
+  "dependencies": {},
+  "devDependencies": {},
+  "bin": {
+    "random-msg": "./bin/global.js"
+  },
+  "preferGlobal": true
+}

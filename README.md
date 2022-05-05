@@ -15,7 +15,7 @@ random-msg
 ```
 
 # Contributing
-If someone wants to add or improve something, I invite you to collaborate directly in this repository: ....
+If someone wants to add or improve something, I invite you to collaborate directly in this repository: [sn-random-msg](https://github.com/sebasnavarrete/sn-random-msg)
 
 # License
 sn-random-msg is released under the [MIT License](https://opensource.org/licenses/MIT).
